@@ -8,10 +8,7 @@
 
 ---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+# 💻 Tech Stack: 
 ![GRC](https://img.shields.io/badge/GRC-Compliance-green?style=for-the-badge) 
 ![Audit](https://img.shields.io/badge/Audit-Risk-red?style=for-the-badge)  
 
