@@ -31,11 +31,17 @@
 
 ## 💼 Work Experience
 ### 🔹 **Information Security Analyst | Virtusa (June 2022 - Present)**
+
 📌 Managed **third-party risk assessments** for vendors across **APAC & EMEA**
+
 📌 Led **internal ITGC testing** and coordinated **external audits (SOC 2, SOX 404, ISO 27001, HIPAA)**
+
 📌 Developed and implemented **Third-Party Management (TPM) Risk Programs**
+
 📌 Reviewed **VA-PT reports** and mitigated identified vulnerabilities
+
 📌 Created security compliance reports for **senior management & stakeholders**
+
 📌 Supported vendor **onboarding & offboarding operations** ensuring risk mitigation
 
 ---  
