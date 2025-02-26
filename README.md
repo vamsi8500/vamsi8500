@@ -25,10 +25,3 @@
 
 ---
 
-### 📬 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:saikrishnavamsi@virtusa.com)  
-
-[![](https://visitcount.itsvg.in/api?id=vamsi8500&icon=0&color=0)](https://visitcount.itsvg.in)  
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
